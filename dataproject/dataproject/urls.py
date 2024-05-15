@@ -19,9 +19,11 @@ from django.urls import path, include
 from datapp import views  # Import your app's views
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
-    path('', views.flight_search, name='home'),  # Set the root URL to point to the flight_search view
-    path('search/', views.flight_search, name='flight_search'),
-    path('get_city_suggestions/', views.get_city_suggestions, name='get_city_suggestions'),
+    # path('admin/', admin.site.urls),
+    # path('', views.flight_search, name='home'),  # Set the root URL to point to the flight_search view
+    # path('search/', views.flight_search, name='flight_search'),
+    # path('get_city_suggestions/', views.get_city_suggestions, name='get_city_suggestions'),
+ path('admin/', admin.site.urls),
+    path('', include('datapp.urls')),
 ]
 
