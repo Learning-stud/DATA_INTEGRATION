@@ -18,6 +18,7 @@ from django.urls import path
 from . import views
 
 urlpatterns = [
-    path('search/', views.flight_search, name='flight_search'),
-    path('get_city_suggestions/', views.get_city_suggestions, name='get_city_suggestions'),
+    # path('search/', views.flight_search, name='flight_search'),
+    # path('get_city_suggestions/', views.get_city_suggestions, name='get_city_suggestions'),
+ path('', views.flight_search, name='flight_search'),
 ]
