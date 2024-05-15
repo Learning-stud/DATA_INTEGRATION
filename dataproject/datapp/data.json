@@ -1,0 +1,1586 @@
+{
+ "code": "200",
+ "status": "success",
+ "data": [
+     {
+         "Sector": "Ahmedabad // Bangalore",
+         "Origin": "AMD",
+         "Destination": "BLR"
+     },
+     {
+         "Sector": "Ahmedabad // Mumbai",
+         "Origin": "AMD",
+         "Destination": "BOM"
+     },
+     {
+         "Sector": "Ahmedabad // Kolkata",
+         "Origin": "AMD",
+         "Destination": "CCU"
+     },
+     {
+         "Sector": "Ahmedabad // Dehradun",
+         "Origin": "AMD",
+         "Destination": "DED"
+     },
+     {
+         "Sector": "Ahmedabad // Delhi",
+         "Origin": "AMD",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Ahmedabad // Goa",
+         "Origin": "AMD",
+         "Destination": "GOI"
+     },
+     {
+         "Sector": "Ahmedabad // Goa (North)",
+         "Origin": "AMD",
+         "Destination": "GOX"
+     },
+     {
+         "Sector": "Ahmedabad // Gwalior",
+         "Origin": "AMD",
+         "Destination": "GWL"
+     },
+     {
+         "Sector": "Ahmedabad // Bagdogra",
+         "Origin": "AMD",
+         "Destination": "IXB"
+     },
+     {
+         "Sector": "Ahmedabad // Chandigarh",
+         "Origin": "AMD",
+         "Destination": "IXC"
+     },
+     {
+         "Sector": "Ahmedabad // Jaipur",
+         "Origin": "AMD",
+         "Destination": "JAI"
+     },
+     {
+         "Sector": "Ahmedabad // Chennai",
+         "Origin": "AMD",
+         "Destination": "MAA"
+     },
+     {
+         "Sector": "Ahmedabad // Patna",
+         "Origin": "AMD",
+         "Destination": "PAT"
+     },
+     {
+         "Sector": "Ahmedabad // Pune",
+         "Origin": "AMD",
+         "Destination": "PNQ"
+     },
+     {
+         "Sector": "Ahmedabad // Srinagar",
+         "Origin": "AMD",
+         "Destination": "SXR"
+     },
+     {
+         "Sector": "Ahmedabad // Varanasi",
+         "Origin": "AMD",
+         "Destination": "VNS"
+     },
+     {
+         "Sector": "Amritsar // Bangalore",
+         "Origin": "ATQ",
+         "Destination": "BLR"
+     },
+     {
+         "Sector": "Amritsar // Mumbai",
+         "Origin": "ATQ",
+         "Destination": "BOM"
+     },
+     {
+         "Sector": "Amritsar // Delhi",
+         "Origin": "ATQ",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Amritsar // Jaipur",
+         "Origin": "ATQ",
+         "Destination": "JAI"
+     },
+     {
+         "Sector": "Amritsar // Patna",
+         "Origin": "ATQ",
+         "Destination": "PAT"
+     },
+     {
+         "Sector": "Ayodhya // Banglore",
+         "Origin": "AYJ",
+         "Destination": "BLR"
+     },
+     {
+         "Sector": "Ayodhya // Mumbai",
+         "Origin": "AYJ",
+         "Destination": "BOM"
+     },
+     {
+         "Sector": "Ayodhya // Delhi",
+         "Origin": "AYJ",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Ayodhya // Hyderabad",
+         "Origin": "AYJ",
+         "Destination": "HYD"
+     },
+     {
+         "Sector": "Ayodhya // Chennai",
+         "Origin": "AYJ",
+         "Destination": "MAA"
+     },
+     {
+         "Sector": "Bhubaneswar // Bangalore",
+         "Origin": "BBI",
+         "Destination": "BLR"
+     },
+     {
+         "Sector": "Bhubaneswar // Kolkata",
+         "Origin": "BBI",
+         "Destination": "CCU"
+     },
+     {
+         "Sector": "Bhubaneswar // Delhi",
+         "Origin": "BBI",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Bhavnagar // Pune",
+         "Origin": "BHU",
+         "Destination": "PNQ"
+     },
+     {
+         "Sector": "Bangkok // Kolkata",
+         "Origin": "BKK",
+         "Destination": "CCU"
+     },
+     {
+         "Sector": "Bangkok // Delhi",
+         "Origin": "BKK",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Bangalore // Ahmedabad",
+         "Origin": "BLR",
+         "Destination": "AMD"
+     },
+     {
+         "Sector": "Bangalore // Amritsar",
+         "Origin": "BLR",
+         "Destination": "ATQ"
+     },
+     {
+         "Sector": "Bangalore // Ayodhya",
+         "Origin": "BLR",
+         "Destination": "AYJ"
+     },
+     {
+         "Sector": "Bangalore // Bhubaneswar",
+         "Origin": "BLR",
+         "Destination": "BBI"
+     },
+     {
+         "Sector": "Bangalore // Mumbai",
+         "Origin": "BLR",
+         "Destination": "BOM"
+     },
+     {
+         "Sector": "Bangalore // Kolkata",
+         "Origin": "BLR",
+         "Destination": "CCU"
+     },
+     {
+         "Sector": "Bangalore // Coimbatore",
+         "Origin": "BLR",
+         "Destination": "CJB"
+     },
+     {
+         "Sector": "Bangalore // Darbhanga",
+         "Origin": "BLR",
+         "Destination": "DBR"
+     },
+     {
+         "Sector": "Bangalore // Dehradun",
+         "Origin": "BLR",
+         "Destination": "DED"
+     },
+     {
+         "Sector": "Bangalore // Delhi",
+         "Origin": "BLR",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Bangalore // Bali // Bangalore",
+         "Origin": "BLR",
+         "Destination": "DPS"
+     },
+     {
+         "Sector": "Bangalore // Guwahati",
+         "Origin": "BLR",
+         "Destination": "GAU"
+     },
+     {
+         "Sector": "Bangalore // Goa",
+         "Origin": "BLR",
+         "Destination": "GOI"
+     },
+     {
+         "Sector": "Bangalore // Gorakhpur",
+         "Origin": "BLR",
+         "Destination": "GOP"
+     },
+     {
+         "Sector": "Bangalore // Goa (North)",
+         "Origin": "BLR",
+         "Destination": "GOX"
+     },
+     {
+         "Sector": "Bangalore // Gwalior",
+         "Origin": "BLR",
+         "Destination": "GWL"
+     },
+     {
+         "Sector": "Bangalore // Hyderabad",
+         "Origin": "BLR",
+         "Destination": "HYD"
+     },
+     {
+         "Sector": "Bangalore // Bagdogra",
+         "Origin": "BLR",
+         "Destination": "IXB"
+     },
+     {
+         "Sector": "Bangalore // Chandigarh",
+         "Origin": "BLR",
+         "Destination": "IXC"
+     },
+     {
+         "Sector": "Bangalore // Ranchi",
+         "Origin": "BLR",
+         "Destination": "IXR"
+     },
+     {
+         "Sector": "Bangalore // Portblair",
+         "Origin": "BLR",
+         "Destination": "IXZ"
+     },
+     {
+         "Sector": "Bangalore // Jaipur",
+         "Origin": "BLR",
+         "Destination": "JAI"
+     },
+     {
+         "Sector": "Bangalore // Lucknow",
+         "Origin": "BLR",
+         "Destination": "LKO"
+     },
+     {
+         "Sector": "Bangalore // Chennai",
+         "Origin": "BLR",
+         "Destination": "MAA"
+     },
+     {
+         "Sector": "Bangalore // Patna",
+         "Origin": "BLR",
+         "Destination": "PAT"
+     },
+     {
+         "Sector": "Bangalore // Pune",
+         "Origin": "BLR",
+         "Destination": "PNQ"
+     },
+     {
+         "Sector": "Bangalore // Rajkot",
+         "Origin": "BLR",
+         "Destination": "RAJ"
+     },
+     {
+         "Sector": "Bangalore // Raipur",
+         "Origin": "BLR",
+         "Destination": "RPR"
+     },
+     {
+         "Sector": "Bangalore // Shirdi",
+         "Origin": "BLR",
+         "Destination": "SAG"
+     },
+     {
+         "Sector": "Bangalore // Surat",
+         "Origin": "BLR",
+         "Destination": "STV"
+     },
+     {
+         "Sector": "Bangalore // Udaipur",
+         "Origin": "BLR",
+         "Destination": "UDR"
+     },
+     {
+         "Sector": "Bangalore // Varanasi",
+         "Origin": "BLR",
+         "Destination": "VNS"
+     },
+     {
+         "Sector": "Mumbai // Ahmedabad",
+         "Origin": "BOM",
+         "Destination": "AMD"
+     },
+     {
+         "Sector": "Mumbai // Amritsar",
+         "Origin": "BOM",
+         "Destination": "ATQ"
+     },
+     {
+         "Sector": "Mumbai // Ayodhya",
+         "Origin": "BOM",
+         "Destination": "AYJ"
+     },
+     {
+         "Sector": "Mumbai // Bhavnagar",
+         "Origin": "BOM",
+         "Destination": "BHU"
+     },
+     {
+         "Sector": "Mumbai // Bangalore",
+         "Origin": "BOM",
+         "Destination": "BLR"
+     },
+     {
+         "Sector": "Mumbai // Kolkata",
+         "Origin": "BOM",
+         "Destination": "CCU"
+     },
+     {
+         "Sector": "Mumbai // Kochi",
+         "Origin": "BOM",
+         "Destination": "COK"
+     },
+     {
+         "Sector": "Mumbai // Darbhanga",
+         "Origin": "BOM",
+         "Destination": "DBR"
+     },
+     {
+         "Sector": "Mumbai // Dehradun",
+         "Origin": "BOM",
+         "Destination": "DED"
+     },
+     {
+         "Sector": "Mumbai // Delhi",
+         "Origin": "BOM",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Mumbai // Bali // Mumbai",
+         "Origin": "BOM",
+         "Destination": "DPS"
+     },
+     {
+         "Sector": "Mumbai // Guwahati",
+         "Origin": "BOM",
+         "Destination": "GAU"
+     },
+     {
+         "Sector": "Mumbai // Goa",
+         "Origin": "BOM",
+         "Destination": "GOI"
+     },
+     {
+         "Sector": "Mumbai // Gorakhpur",
+         "Origin": "BOM",
+         "Destination": "GOP"
+     },
+     {
+         "Sector": "Mumbai // Goa (North)",
+         "Origin": "BOM",
+         "Destination": "GOX"
+     },
+     {
+         "Sector": "Mumbai // Gwalior",
+         "Origin": "BOM",
+         "Destination": "GWL"
+     },
+     {
+         "Sector": "Mumbai // Hyderabad",
+         "Origin": "BOM",
+         "Destination": "HYD"
+     },
+     {
+         "Sector": "Mumbai // Bagdogra",
+         "Origin": "BOM",
+         "Destination": "IXB"
+     },
+     {
+         "Sector": "Mumbai // Chandigarh",
+         "Origin": "BOM",
+         "Destination": "IXC"
+     },
+     {
+         "Sector": "Mumbai // Prayagraj",
+         "Origin": "BOM",
+         "Destination": "IXD"
+     },
+     {
+         "Sector": "Mumbai // Jammu",
+         "Origin": "BOM",
+         "Destination": "IXJ"
+     },
+     {
+         "Sector": "Mumbai // Leh",
+         "Origin": "BOM",
+         "Destination": "IXL"
+     },
+     {
+         "Sector": "Mumbai // Ranchi",
+         "Origin": "BOM",
+         "Destination": "IXR"
+     },
+     {
+         "Sector": "Mumbai // Jaipur",
+         "Origin": "BOM",
+         "Destination": "JAI"
+     },
+     {
+         "Sector": "Mumbai // Jodhpur",
+         "Origin": "BOM",
+         "Destination": "JDH"
+     },
+     {
+         "Sector": "Mumbai // Kathmandu",
+         "Origin": "BOM",
+         "Destination": "KTM"
+     },
+     {
+         "Sector": "Mumbai // Lucknow",
+         "Origin": "BOM",
+         "Destination": "LKO"
+     },
+     {
+         "Sector": "Mumbai // Chennai",
+         "Origin": "BOM",
+         "Destination": "MAA"
+     },
+     {
+         "Sector": "Mumbai // Patna",
+         "Origin": "BOM",
+         "Destination": "PAT"
+     },
+     {
+         "Sector": "Mumbai // Srinagar",
+         "Origin": "BOM",
+         "Destination": "SXR"
+     },
+     {
+         "Sector": "Mumbai // Tirupati",
+         "Origin": "BOM",
+         "Destination": "TIR"
+     },
+     {
+         "Sector": "Mumbai // Varanasi",
+         "Origin": "BOM",
+         "Destination": "VNS"
+     },
+     {
+         "Sector": "Kolkata // Aizwal",
+         "Origin": "CCU",
+         "Destination": "AJL"
+     },
+     {
+         "Sector": "Kolkata // Ahmedabad",
+         "Origin": "CCU",
+         "Destination": "AMD"
+     },
+     {
+         "Sector": "Kolkata // Bhubaneswar",
+         "Origin": "CCU",
+         "Destination": "BBI"
+     },
+     {
+         "Sector": "Kolkata // Bangkok",
+         "Origin": "CCU",
+         "Destination": "BKK"
+     },
+     {
+         "Sector": "Kolkata // Bangalore",
+         "Origin": "CCU",
+         "Destination": "BLR"
+     },
+     {
+         "Sector": "Kolkata // Mumbai",
+         "Origin": "CCU",
+         "Destination": "BOM"
+     },
+     {
+         "Sector": "CCU // DAC (OLD)",
+         "Origin": "CCU",
+         "Destination": "DAC"
+     },
+     {
+         "Sector": "Kolkata // Delhi",
+         "Origin": "CCU",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Kolkata // Dubai // Kolkata",
+         "Origin": "CCU",
+         "Destination": "DXB"
+     },
+     {
+         "Sector": "Kolkata // Guwahati",
+         "Origin": "CCU",
+         "Destination": "GAU"
+     },
+     {
+         "Sector": "Kolkata // Goa",
+         "Origin": "CCU",
+         "Destination": "GOI"
+     },
+     {
+         "Sector": "Kolkata // Goa (North)",
+         "Origin": "CCU",
+         "Destination": "GOX"
+     },
+     {
+         "Sector": "Kolkata // Hyderabad",
+         "Origin": "CCU",
+         "Destination": "HYD"
+     },
+     {
+         "Sector": "Kolkata // Bagdogra",
+         "Origin": "CCU",
+         "Destination": "IXB"
+     },
+     {
+         "Sector": "Kolkata // Silchar",
+         "Origin": "CCU",
+         "Destination": "IXS"
+     },
+     {
+         "Sector": "Kolkata // Portblair",
+         "Origin": "CCU",
+         "Destination": "IXZ"
+     },
+     {
+         "Sector": "Kolkata // Jaipur",
+         "Origin": "CCU",
+         "Destination": "JAI"
+     },
+     {
+         "Sector": "Kolkata // Chennai",
+         "Origin": "CCU",
+         "Destination": "MAA"
+     },
+     {
+         "Sector": "Kolkata // Patna",
+         "Origin": "CCU",
+         "Destination": "PAT"
+     },
+     {
+         "Sector": "Kolkata // Pune",
+         "Origin": "CCU",
+         "Destination": "PNQ"
+     },
+     {
+         "Sector": "Kolkata // Pakyong",
+         "Origin": "CCU",
+         "Destination": "PYG"
+     },
+     {
+         "Sector": "Kolkata // Shillong",
+         "Origin": "CCU",
+         "Destination": "SHL"
+     },
+     {
+         "Sector": "Kolkata // Srinagar",
+         "Origin": "CCU",
+         "Destination": "SXR"
+     },
+     {
+         "Sector": "Kolkata // Visakhapatnam",
+         "Origin": "CCU",
+         "Destination": "VTZ"
+     },
+     {
+         "Sector": "Kochi // Mumbai",
+         "Origin": "COK",
+         "Destination": "BOM"
+     },
+     {
+         "Sector": "Dhaka // Kolkata",
+         "Origin": "DAC",
+         "Destination": "CCU"
+     },
+     {
+         "Sector": "Darbhanga // Bangalore",
+         "Origin": "DBR",
+         "Destination": "BLR"
+     },
+     {
+         "Sector": "Darbhanga // Mumbai",
+         "Origin": "DBR",
+         "Destination": "BOM"
+     },
+     {
+         "Sector": "Darbhanga // Delhi",
+         "Origin": "DBR",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Dehradun // Ahmedabad",
+         "Origin": "DED",
+         "Destination": "AMD"
+     },
+     {
+         "Sector": "Dehradun // Mumbai",
+         "Origin": "DED",
+         "Destination": "BOM"
+     },
+     {
+         "Sector": "Dehradun // Kolkata",
+         "Origin": "DED",
+         "Destination": "CCU"
+     },
+     {
+         "Sector": "Delhi // Ahmedabad",
+         "Origin": "DEL",
+         "Destination": "AMD"
+     },
+     {
+         "Sector": "Delhi // Ayodhya",
+         "Origin": "DEL",
+         "Destination": "AYJ"
+     },
+     {
+         "Sector": "Delhi // Bhubaneswar",
+         "Origin": "DEL",
+         "Destination": "BBI"
+     },
+     {
+         "Sector": "Delhi // Bangkok",
+         "Origin": "DEL",
+         "Destination": "BKK"
+     },
+     {
+         "Sector": "Delhi // Bangalore",
+         "Origin": "DEL",
+         "Destination": "BLR"
+     },
+     {
+         "Sector": "Delhi // Mumbai",
+         "Origin": "DEL",
+         "Destination": "BOM"
+     },
+     {
+         "Sector": "Delhi // Kolkata",
+         "Origin": "DEL",
+         "Destination": "CCU"
+     },
+     {
+         "Sector": "Delhi // Darbhanga",
+         "Origin": "DEL",
+         "Destination": "DBR"
+     },
+     {
+         "Sector": "Delhi // Dharamshala",
+         "Origin": "DEL",
+         "Destination": "DHM"
+     },
+     {
+         "Sector": "Delhi // Guwahati",
+         "Origin": "DEL",
+         "Destination": "GAU"
+     },
+     {
+         "Sector": "Delhi // Goa",
+         "Origin": "DEL",
+         "Destination": "GOI"
+     },
+     {
+         "Sector": "Delhi // Gorakhpur",
+         "Origin": "DEL",
+         "Destination": "GOP"
+     },
+     {
+         "Sector": "Delhi // Goa (North)",
+         "Origin": "DEL",
+         "Destination": "GOX"
+     },
+     {
+         "Sector": "Delhi // Rajkot",
+         "Origin": "DEL",
+         "Destination": "HSR"
+     },
+     {
+         "Sector": "Delhi // Hyderabad",
+         "Origin": "DEL",
+         "Destination": "HYD"
+     },
+     {
+         "Sector": "Delhi // Indore",
+         "Origin": "DEL",
+         "Destination": "IDR"
+     },
+     {
+         "Sector": "Delhi // Bagdogra",
+         "Origin": "DEL",
+         "Destination": "IXB"
+     },
+     {
+         "Sector": "Delhi // Jammu",
+         "Origin": "DEL",
+         "Destination": "IXJ"
+     },
+     {
+         "Sector": "Delhi // Leh",
+         "Origin": "DEL",
+         "Destination": "IXL"
+     },
+     {
+         "Sector": "Delhi // Ranchi",
+         "Origin": "DEL",
+         "Destination": "IXR"
+     },
+     {
+         "Sector": "Delhi // Jodhpur",
+         "Origin": "DEL",
+         "Destination": "JDH"
+     },
+     {
+         "Sector": "Delhi // Jharsuguda",
+         "Origin": "DEL",
+         "Destination": "JRG"
+     },
+     {
+         "Sector": "Delhi // Kushinagar",
+         "Origin": "DEL",
+         "Destination": "KBK"
+     },
+     {
+         "Sector": "Delhi // Kathmandu",
+         "Origin": "DEL",
+         "Destination": "KTM"
+     },
+     {
+         "Sector": "Delhi // Chennai ",
+         "Origin": "DEL",
+         "Destination": "MAA"
+     },
+     {
+         "Sector": "Delhi // Patna",
+         "Origin": "DEL",
+         "Destination": "PAT"
+     },
+     {
+         "Sector": "Delhi // Pune",
+         "Origin": "DEL",
+         "Destination": "PNQ"
+     },
+     {
+         "Sector": "Delhi // Pakyong",
+         "Origin": "DEL",
+         "Destination": "PYG"
+     },
+     {
+         "Sector": "Delhi // Raipur",
+         "Origin": "DEL",
+         "Destination": "RPR"
+     },
+     {
+         "Sector": "Delhi // Riyadh",
+         "Origin": "DEL",
+         "Destination": "RUH"
+     },
+     {
+         "Sector": "Delhi // Shirdi",
+         "Origin": "DEL",
+         "Destination": "SAG"
+     },
+     {
+         "Sector": "Delhi // Shillong",
+         "Origin": "DEL",
+         "Destination": "SHL"
+     },
+     {
+         "Sector": "Delhi // Surat",
+         "Origin": "DEL",
+         "Destination": "STV"
+     },
+     {
+         "Sector": "Delhi // Srinagar",
+         "Origin": "DEL",
+         "Destination": "SXR"
+     },
+     {
+         "Sector": "Delhi // Varanasi",
+         "Origin": "DEL",
+         "Destination": "VNS"
+     },
+     {
+         "Sector": "Dharamshala // Delhi",
+         "Origin": "DHM",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Dubai // Delhi",
+         "Origin": "DXB",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Guwahati // Bangalore",
+         "Origin": "GAU",
+         "Destination": "BLR"
+     },
+     {
+         "Sector": "Guwahati // Mumbai",
+         "Origin": "GAU",
+         "Destination": "BOM"
+     },
+     {
+         "Sector": "Guwahati // Kolkata",
+         "Origin": "GAU",
+         "Destination": "CCU"
+     },
+     {
+         "Sector": "Guwahati // Delhi",
+         "Origin": "GAU",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Guwahati // Agartala",
+         "Origin": "GAU",
+         "Destination": "IXA"
+     },
+     {
+         "Sector": "Guwahati // Bagdogra",
+         "Origin": "GAU",
+         "Destination": "IXB"
+     },
+     {
+         "Sector": "Guwahati // Jaipur",
+         "Origin": "GAU",
+         "Destination": "JAI"
+     },
+     {
+         "Sector": "Guwahati // Chennai",
+         "Origin": "GAU",
+         "Destination": "MAA"
+     },
+     {
+         "Sector": "Guwahati // Durgapur",
+         "Origin": "GAU",
+         "Destination": "RDP"
+     },
+     {
+         "Sector": "Guwahati // Varanasi",
+         "Origin": "GAU",
+         "Destination": "VNS"
+     },
+     {
+         "Sector": "Goa // Ahmedabad",
+         "Origin": "GOI",
+         "Destination": "AMD"
+     },
+     {
+         "Sector": "Goa // Bangalore",
+         "Origin": "GOI",
+         "Destination": "BLR"
+     },
+     {
+         "Sector": "Goa // Mumbai",
+         "Origin": "GOI",
+         "Destination": "BOM"
+     },
+     {
+         "Sector": "Goa // Kolkata",
+         "Origin": "GOI",
+         "Destination": "CCU"
+     },
+     {
+         "Sector": "Goa // Delhi",
+         "Origin": "GOI",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Goa // Pune",
+         "Origin": "GOI",
+         "Destination": "PNQ"
+     },
+     {
+         "Sector": "Gorakhpur // Bangalore",
+         "Origin": "GOP",
+         "Destination": "BLR"
+     },
+     {
+         "Sector": "Gorakhpur // Mumbai",
+         "Origin": "GOP",
+         "Destination": "BOM"
+     },
+     {
+         "Sector": "Gorakhpur // Delhi",
+         "Origin": "GOP",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Gorakhpur // Varanasi",
+         "Origin": "GOP",
+         "Destination": "VNS"
+     },
+     {
+         "Sector": "Goa (North) // Ahmedabad",
+         "Origin": "GOX",
+         "Destination": "AMD"
+     },
+     {
+         "Sector": "Goa (North) // Bangalore",
+         "Origin": "GOX",
+         "Destination": "BLR"
+     },
+     {
+         "Sector": "Goa (North) // Mumbai",
+         "Origin": "GOX",
+         "Destination": "BOM"
+     },
+     {
+         "Sector": "Goa (North) // Kolkata",
+         "Origin": "GOX",
+         "Destination": "CCU"
+     },
+     {
+         "Sector": "Goa (North) // Delhi",
+         "Origin": "GOX",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Goa (North) // Pune",
+         "Origin": "GOX",
+         "Destination": "PNQ"
+     },
+     {
+         "Sector": "Gwalior // Ahmedabad",
+         "Origin": "GWL",
+         "Destination": "AMD"
+     },
+     {
+         "Sector": "Gwalior // Mumbai",
+         "Origin": "GWL",
+         "Destination": "BOM"
+     },
+     {
+         "Sector": "Rajkot // Delhi",
+         "Origin": "HSR",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Hyderabad // Ayodhya",
+         "Origin": "HYD",
+         "Destination": "AYJ"
+     },
+     {
+         "Sector": "Hyderabad // Bangalore",
+         "Origin": "HYD",
+         "Destination": "BLR"
+     },
+     {
+         "Sector": "Hyderabad // Mumbai",
+         "Origin": "HYD",
+         "Destination": "BOM"
+     },
+     {
+         "Sector": "Hyderabad // Kolkata",
+         "Origin": "HYD",
+         "Destination": "CCU"
+     },
+     {
+         "Sector": "Hyderabad // Kochi",
+         "Origin": "HYD",
+         "Destination": "COK"
+     },
+     {
+         "Sector": "Hyderabad // Delhi",
+         "Origin": "HYD",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Hyderabad // Dubai",
+         "Origin": "HYD",
+         "Destination": "DXB"
+     },
+     {
+         "Sector": "Hyderabad // Goa (North)",
+         "Origin": "HYD",
+         "Destination": "GOX"
+     },
+     {
+         "Sector": "Hyderabad // Bagdogra",
+         "Origin": "HYD",
+         "Destination": "IXB"
+     },
+     {
+         "Sector": "Hyderabad // Chennai",
+         "Origin": "HYD",
+         "Destination": "MAA"
+     },
+     {
+         "Sector": "Hyderabad // Patna",
+         "Origin": "HYD",
+         "Destination": "PAT"
+     },
+     {
+         "Sector": "Hyderabad // Tirupati ",
+         "Origin": "HYD",
+         "Destination": "TIR"
+     },
+     {
+         "Sector": "Hyderabad // Varanasi",
+         "Origin": "HYD",
+         "Destination": "VNS"
+     },
+     {
+         "Sector": "Indore // Delhi",
+         "Origin": "IDR",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Imphal // Guwahati",
+         "Origin": "IMF",
+         "Destination": "GAU"
+     },
+     {
+         "Sector": "Nashik // Delhi",
+         "Origin": "ISK",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Agartala // Guwahati",
+         "Origin": "IXA",
+         "Destination": "GAU"
+     },
+     {
+         "Sector": "Bagdogra // Ahmedabad",
+         "Origin": "IXB",
+         "Destination": "AMD"
+     },
+     {
+         "Sector": "Bagdogra // Bangalore",
+         "Origin": "IXB",
+         "Destination": "BLR"
+     },
+     {
+         "Sector": "Bagdogra // Mumbai",
+         "Origin": "IXB",
+         "Destination": "BOM"
+     },
+     {
+         "Sector": "Bagdogra // Kolkata",
+         "Origin": "IXB",
+         "Destination": "CCU"
+     },
+     {
+         "Sector": "Bagdogra // Delhi",
+         "Origin": "IXB",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Bagdogra // Guwahati",
+         "Origin": "IXB",
+         "Destination": "GAU"
+     },
+     {
+         "Sector": "Bagdogra // Hyderabad",
+         "Origin": "IXB",
+         "Destination": "HYD"
+     },
+     {
+         "Sector": "Bagdogra // Chennai",
+         "Origin": "IXB",
+         "Destination": "MAA"
+     },
+     {
+         "Sector": "Chandigarh // Ahmedabad",
+         "Origin": "IXC",
+         "Destination": "AMD"
+     },
+     {
+         "Sector": "Chandigarh // Bangalore",
+         "Origin": "IXC",
+         "Destination": "BLR"
+     },
+     {
+         "Sector": "Chandigarh // Mumbai",
+         "Origin": "IXC",
+         "Destination": "BOM"
+     },
+     {
+         "Sector": "Chandigarh // Chennai",
+         "Origin": "IXC",
+         "Destination": "MAA"
+     },
+     {
+         "Sector": "Chandigarh // Srinagar",
+         "Origin": "IXC",
+         "Destination": "SXR"
+     },
+     {
+         "Sector": "Prayagraj // Mumbai",
+         "Origin": "IXD",
+         "Destination": "BOM"
+     },
+     {
+         "Sector": "Jammu // Delhi",
+         "Origin": "IXJ",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Jammu // Srinagar",
+         "Origin": "IXJ",
+         "Destination": "SXR"
+     },
+     {
+         "Sector": "Leh // Delhi",
+         "Origin": "IXL",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Ranchi // Bangalore",
+         "Origin": "IXR",
+         "Destination": "BLR"
+     },
+     {
+         "Sector": "Ranchi // Mumbai",
+         "Origin": "IXR",
+         "Destination": "BOM"
+     },
+     {
+         "Sector": "Ranchi // Delhi",
+         "Origin": "IXR",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Silchar // Kolkata",
+         "Origin": "IXS",
+         "Destination": "CCU"
+     },
+     {
+         "Sector": "Silchar // Guwahati",
+         "Origin": "IXS",
+         "Destination": "GAU"
+     },
+     {
+         "Sector": "Portblair // Bangalore",
+         "Origin": "IXZ",
+         "Destination": "BLR"
+     },
+     {
+         "Sector": "Portblair // Kolkata",
+         "Origin": "IXZ",
+         "Destination": "CCU"
+     },
+     {
+         "Sector": "Portblair // Chennai",
+         "Origin": "IXZ",
+         "Destination": "MAA"
+     },
+     {
+         "Sector": "Jaipur // Ahmedabad",
+         "Origin": "JAI",
+         "Destination": "AMD"
+     },
+     {
+         "Sector": "Jaipur // Bangalore",
+         "Origin": "JAI",
+         "Destination": "BLR"
+     },
+     {
+         "Sector": "Jaipur // Mumbai",
+         "Origin": "JAI",
+         "Destination": "BOM"
+     },
+     {
+         "Sector": "Jaipur // Kolkata",
+         "Origin": "JAI",
+         "Destination": "CCU"
+     },
+     {
+         "Sector": "Jaipur // Delhi",
+         "Origin": "JAI",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Jaipur // Guwahati",
+         "Origin": "JAI",
+         "Destination": "GAU"
+     },
+     {
+         "Sector": "Jaipur // Chandigarh",
+         "Origin": "JAI",
+         "Destination": "IXC"
+     },
+     {
+         "Sector": "Jaipur // Chennai",
+         "Origin": "JAI",
+         "Destination": "MAA"
+     },
+     {
+         "Sector": "Jaipur // Pune",
+         "Origin": "JAI",
+         "Destination": "PNQ"
+     },
+     {
+         "Sector": "Jodhpur // Bangalore",
+         "Origin": "JDH",
+         "Destination": "BLR"
+     },
+     {
+         "Sector": "Jodhpur // Mumbai",
+         "Origin": "JDH",
+         "Destination": "BOM"
+     },
+     {
+         "Sector": "Jodhpur // Delhi",
+         "Origin": "JDH",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Jharsuguda // Delhi",
+         "Origin": "JRG",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Kathmandu // Mumbai",
+         "Origin": "KTM",
+         "Destination": "BOM"
+     },
+     {
+         "Sector": "Kathmandu // Delhi",
+         "Origin": "KTM",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Lucknow // Bangalore",
+         "Origin": "LKO",
+         "Destination": "BLR"
+     },
+     {
+         "Sector": "Lucknow // Mumbai",
+         "Origin": "LKO",
+         "Destination": "BOM"
+     },
+     {
+         "Sector": "Lucknow // Chennai",
+         "Origin": "LKO",
+         "Destination": "MAA"
+     },
+     {
+         "Sector": "Chennai // Ahmedabad",
+         "Origin": "MAA",
+         "Destination": "AMD"
+     },
+     {
+         "Sector": "Chennai // Ayodhya",
+         "Origin": "MAA",
+         "Destination": "AYJ"
+     },
+     {
+         "Sector": "Chennai // Bangalore",
+         "Origin": "MAA",
+         "Destination": "BLR"
+     },
+     {
+         "Sector": "Chennai // Mumbai",
+         "Origin": "MAA",
+         "Destination": "BOM"
+     },
+     {
+         "Sector": "Chennai // Kolkata",
+         "Origin": "MAA",
+         "Destination": "CCU"
+     },
+     {
+         "Sector": "Chennai // Delhi",
+         "Origin": "MAA",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Chennai // Guwahati",
+         "Origin": "MAA",
+         "Destination": "GAU"
+     },
+     {
+         "Sector": "Chennai // Hyderabad",
+         "Origin": "MAA",
+         "Destination": "HYD"
+     },
+     {
+         "Sector": "Chennai // Bagdogra",
+         "Origin": "MAA",
+         "Destination": "IXB"
+     },
+     {
+         "Sector": "Chennai // Chandigarh",
+         "Origin": "MAA",
+         "Destination": "IXC"
+     },
+     {
+         "Sector": "Chennai // Portblair",
+         "Origin": "MAA",
+         "Destination": "IXZ"
+     },
+     {
+         "Sector": "Chennai // Patna",
+         "Origin": "MAA",
+         "Destination": "PAT"
+     },
+     {
+         "Sector": "Patna // Ahmedabad",
+         "Origin": "PAT",
+         "Destination": "AMD"
+     },
+     {
+         "Sector": "Patna // Bangalore",
+         "Origin": "PAT",
+         "Destination": "BLR"
+     },
+     {
+         "Sector": "Patna // Mumbai",
+         "Origin": "PAT",
+         "Destination": "BOM"
+     },
+     {
+         "Sector": "Patna // Delhi",
+         "Origin": "PAT",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Patna // Guwahati",
+         "Origin": "PAT",
+         "Destination": "GAU"
+     },
+     {
+         "Sector": "Patna // Hyderabad",
+         "Origin": "PAT",
+         "Destination": "HYD"
+     },
+     {
+         "Sector": "Patna // Chennai",
+         "Origin": "PAT",
+         "Destination": "MAA"
+     },
+     {
+         "Sector": "Patna // Pune",
+         "Origin": "PAT",
+         "Destination": "PNQ"
+     },
+     {
+         "Sector": "Pune // Ahmedabad",
+         "Origin": "PNQ",
+         "Destination": "AMD"
+     },
+     {
+         "Sector": "Pune // Bangalore",
+         "Origin": "PNQ",
+         "Destination": "BLR"
+     },
+     {
+         "Sector": "Pune // Kolkata",
+         "Origin": "PNQ",
+         "Destination": "CCU"
+     },
+     {
+         "Sector": "Pune // Delhi",
+         "Origin": "PNQ",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Pune // Goa",
+         "Origin": "PNQ",
+         "Destination": "GOI"
+     },
+     {
+         "Sector": "Pune // Goa (North)",
+         "Origin": "PNQ",
+         "Destination": "GOX"
+     },
+     {
+         "Sector": "Pune // Jaipur",
+         "Origin": "PNQ",
+         "Destination": "JAI"
+     },
+     {
+         "Sector": "Pune // Jabalpur",
+         "Origin": "PNQ",
+         "Destination": "JLR"
+     },
+     {
+         "Sector": "Pune // Chennai",
+         "Origin": "PNQ",
+         "Destination": "MAA"
+     },
+     {
+         "Sector": "Pune // Patna",
+         "Origin": "PNQ",
+         "Destination": "PAT"
+     },
+     {
+         "Sector": "Pakyong // Kolkata",
+         "Origin": "PYG",
+         "Destination": "CCU"
+     },
+     {
+         "Sector": "Pakyong // Delhi",
+         "Origin": "PYG",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Rajkot // Bangalore",
+         "Origin": "RAJ",
+         "Destination": "BLR"
+     },
+     {
+         "Sector": "Durgapur // Mumbai",
+         "Origin": "RDP",
+         "Destination": "BOM"
+     },
+     {
+         "Sector": "Raipur // Bangalore",
+         "Origin": "RPR",
+         "Destination": "BLR"
+     },
+     {
+         "Sector": "Raipur // Delhi",
+         "Origin": "RPR",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Shirdi // Bangalore",
+         "Origin": "SAG",
+         "Destination": "BLR"
+     },
+     {
+         "Sector": "Shirdi // Delhi",
+         "Origin": "SAG",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Shirdi // Hyderabad",
+         "Origin": "SAG",
+         "Destination": "HYD"
+     },
+     {
+         "Sector": "Shillong // Kolkata",
+         "Origin": "SHL",
+         "Destination": "CCU"
+     },
+     {
+         "Sector": "Shillong // Delhi",
+         "Origin": "SHL",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Surat // Bangalore",
+         "Origin": "STV",
+         "Destination": "BLR"
+     },
+     {
+         "Sector": "Surat // Delhi",
+         "Origin": "STV",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Surat // Jaipur",
+         "Origin": "STV",
+         "Destination": "JAI"
+     },
+     {
+         "Sector": "Srinagar // Ahmedabad",
+         "Origin": "SXR",
+         "Destination": "AMD"
+     },
+     {
+         "Sector": "Srinagar // Mumbai",
+         "Origin": "SXR",
+         "Destination": "BOM"
+     },
+     {
+         "Sector": "Srinagar // Kolkata",
+         "Origin": "SXR",
+         "Destination": "CCU"
+     },
+     {
+         "Sector": "Srinagar // Delhi",
+         "Origin": "SXR",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Srinagar // Chandigarh",
+         "Origin": "SXR",
+         "Destination": "IXC"
+     },
+     {
+         "Sector": "Srinagar // Jammu",
+         "Origin": "SXR",
+         "Destination": "IXJ"
+     },
+     {
+         "Sector": "Tirupati // Hyderabad ",
+         "Origin": "TIR",
+         "Destination": "HYD"
+     },
+     {
+         "Sector": "Udaipur // Bangalore",
+         "Origin": "UDR",
+         "Destination": "BLR"
+     },
+     {
+         "Sector": "Udaipur // Mumbai",
+         "Origin": "UDR",
+         "Destination": "BOM"
+     },
+     {
+         "Sector": "Udaipur // Delhi",
+         "Origin": "UDR",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Udaipur // Jaipur",
+         "Origin": "UDR",
+         "Destination": "JAI"
+     },
+     {
+         "Sector": "Varanasi // Ahmedabad",
+         "Origin": "VNS",
+         "Destination": "AMD"
+     },
+     {
+         "Sector": "Varanasi // Bangalore",
+         "Origin": "VNS",
+         "Destination": "BLR"
+     },
+     {
+         "Sector": "Varanasi // Mumbai",
+         "Origin": "VNS",
+         "Destination": "BOM"
+     },
+     {
+         "Sector": "Varanasi // Delhi",
+         "Origin": "VNS",
+         "Destination": "DEL"
+     },
+     {
+         "Sector": "Varanasi // Hyderabad",
+         "Origin": "VNS",
+         "Destination": "HYD"
+     },
+     {
+         "Sector": "Varanasi // Jaipur",
+         "Origin": "VNS",
+         "Destination": "JAI"
+     },
+     {
+         "Sector": "Visakhapatnam // Kolkata",
+         "Origin": "VTZ",
+         "Destination": "CCU"
+     }
+ ]
+}
